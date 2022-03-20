@@ -1,4 +1,3 @@
-## 영감이 넘치는 개발자 김현웅입니다 🌟
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/79785454/159173685-51cfbe48-c3aa-47a5-9975-7d3c6cccbc3e.png">
 
