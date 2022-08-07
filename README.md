@@ -6,7 +6,7 @@
 단순한 설계를 지향하며 클린 아키텍쳐에 관심이 많습니다.
 
 ### 🏢 team
-<img width="20" alt="image" src="https://user-images.githubusercontent.com/79785454/183286092-544c30a3-d5df-44d9-bf20-2ba7f317f5b4.png"> [*cashwalk*](https://www.instagram.com/cashwalk_korea/)
+<img width="20" alt="image" src="https://user-images.githubusercontent.com/79785454/183286092-544c30a3-d5df-44d9-bf20-2ba7f317f5b4.png"> [*cashwalk korea*](https://www.instagram.com/cashwalk_korea/)
 
 
 ### 🗞  recently posted [on velog](https://velog.io/@ksi05503)
