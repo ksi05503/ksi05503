@@ -3,7 +3,7 @@
 ## 🙋‍ introduce
 안녕하세요! 백엔드 엔지니어 김현웅입니다.
 
-단순한 설계를 지향하며 클린 아키텍쳐에 관심이 많습니다.
+단순한 설계를 지향하며 효율적인 파이프라인을 구축하는 것에 관심이 많습니다.
 
 ## 🏢 team
 <img width="20" alt="image" src="https://user-images.githubusercontent.com/79785454/183286092-544c30a3-d5df-44d9-bf20-2ba7f317f5b4.png"> [*cashwalk korea*](https://www.instagram.com/cashwalk_korea/)
