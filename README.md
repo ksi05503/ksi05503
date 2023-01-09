@@ -12,6 +12,10 @@
 
 
 ## 🗞  recently posted [on velog](https://velog.io/@ksi05503)
+
+[![velog](https://velog-readme-stats.vercel.app/api/list?name=ksi05503)](https://velog.io/@ksi05503) 
+
+
 <a href="https://velog.io/@ksi05503/API-%EC%95%88%EC%A0%95%EC%84%B1%EA%B3%BC-%EC%86%8D%EB%8F%84%EB%A5%BC-%EC%9C%84%ED%95%9C-Response-Compression-%EC%A0%81%EC%9A%A9%EA%B8%B0">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/79785454/187723484-ddfdff11-8aa2-4418-a230-eba253f1891e.png">
 </a>
